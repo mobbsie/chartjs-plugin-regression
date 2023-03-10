@@ -94,5 +94,5 @@ function forEach(
 
 export const ChartRegressions = new Plugin();
 
-declare var window: any;
-window.ChartRegressions = ChartRegressions;
+/*declare var window: any;
+window.ChartRegressions = ChartRegressions;*/
